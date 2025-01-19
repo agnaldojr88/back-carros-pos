@@ -24,7 +24,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 #### Clonando o Repositório
 
 ```bash
-git clone https://github.com/leoinfnet/trabalho_final_react_noite.git
+git clone https://github.com/agnaldojr88/back-carros-pos.git  
 cd projeto-carro-fabricante
 ```
 
