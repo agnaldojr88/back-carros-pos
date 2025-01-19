@@ -25,7 +25,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ```bash
 git clone https://github.com/agnaldojr88/back-carros-pos.git  
-cd projeto-carro-fabricante
+cd back-carros-pos
 ```
 
 #### Contruindo com Maven
